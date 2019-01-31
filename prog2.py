@@ -1,3 +1,3 @@
-first_name=input("enter the first name:")
-last_name=input("enter the last name:")
-print("hello {} {}!".format(first_name,last_name))
+name=input('enter the name:')
+usn=int(input('enter the usn')
+adsf
